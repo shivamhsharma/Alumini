@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "51156578600",
+    "firebase_url": "https://alumnidatabase-b34c9.firebaseio.com",
+    "project_id": "alumnidatabase-b34c9",
+    "storage_bucket": "alumnidatabase-b34c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51156578600:android:ca850f413e9af2c0",
+        "android_client_info": {
+          "package_name": "com.pratik.alumni_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51156578600-0t80kvt39jolm22kqch9cnttjkj3kqqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pratik.alumni_database",
+            "certificate_hash": "c63abb1709ff1f7af613efa8cede1e98f903f29f"
+          }
+        },
+        {
+          "client_id": "51156578600-b82818v2udt5ep2k1p6jcpu53bmnhalo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEMga8w3FkigmFVWjjT9okkPWPwPwy73I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51156578600-b82818v2udt5ep2k1p6jcpu53bmnhalo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

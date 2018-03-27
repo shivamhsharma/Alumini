@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">alumni_database</string>
+    <string name="firstname">firstname</string>
+    <string name="middlename">middlename</string>
+    <string name="next">next</string>
+    <string name="address">address</string>
+    <string name="number">number</string>
+    <string name="email">email</string>
+    <string name="lastname">lastname</string>
+    <string name="enter_ssc_details">Enter SSC details</string>
+    <string name="enter_university">Enter University</string>
+    <string name="enter_name_of_college">Enter Name of College</string>
+    <string name="enter_year_of_passing">Enter year of passing</string>
+    <string name="enter_branch">Enter branch</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_overall_percentage">Enter Overall Percentage</string>
+    <string name="enter_overall_sgpa">Enter Overall SGPA</string>
+    <string name="fullname">fullname</string>
+    <string name="nextprsnl">Next</string>
+    <string name="personaldetails">PersonalDetails</string>
+    <string name="ssc_details">SSC-Details</string>
+    <string name="hsc_details">HSC-Details</string>
+    <string name="engineering_detials">Engineering-Detials</string>
+    <string name="submitacademic">Submit</string>
+</resources>
